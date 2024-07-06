@@ -20,7 +20,7 @@
 cd ${path of the project} <br />cmake .  <br />make  以上のコマンドを実行すると、Linuxの実行ファイルが作成される。
 
 ### Visual Studioでプログラムを作成する(Windows利用者向け)
-外部ライブラリのパスを指定すると、Visual Studioでプログラムを作成することも可能です。
+外部ライブラリのパスを指定すると、Visual Studioで[Windows実行ファイル](https://drive.google.com/drive/folders/1Nx1fpD4h2r5s7V-oH8WLgYXXlY1yCKcV?usp=drive_link)を作成することも可能です。
 
 ## 自作ゲームエンジンの原理
 本プロジェクトは最終画面をテクスチャにしてOpenGLコマンドでレンダリングする。

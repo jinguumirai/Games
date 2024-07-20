@@ -1,6 +1,7 @@
 #include"title.hpp"
 #include"GameLib2D.hpp"
 #include"gameplay.hpp"
+#include<iostream>
 
 Title::Title(const char * title_pic, GameLib2D::Framework2D * const fra_data):GameStatus(fra_data), title_image(title_pic)
 {
